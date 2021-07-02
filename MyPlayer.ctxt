@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyPlayer
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ HealthUpdate()
+comment3.params=
+comment3.target=void\ gameOverScreen()
+comment4.params=
+comment4.target=void\ goToNextLevel()
+comment5.params=
+comment5.target=void\ keyBoardControl()
+comment6.params=
+comment6.target=void\ touch()
+numComments=7
